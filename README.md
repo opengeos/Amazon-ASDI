@@ -1,5 +1,5 @@
 ---
-title: Solara Template
+title: Amazon ASDI
 emoji: 🏃
 colorFrom: blue
 colorTo: green
