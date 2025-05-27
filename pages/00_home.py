@@ -5,16 +5,12 @@ import solara
 def Page():
     with solara.Column(align="center"):
         markdown = """
-        ## A Solara Template for Geospatial Applications
-        
-        ### Introduction
+        ## Amazon Sustainability Data Initiative (ASDI)
 
-        **A collection of [Solara](https://github.com/widgetti/solara) web apps for geospatial applications.**
+        An Interactive Web App for Visualizing Open Data from the Amazon Sustainability Data Initiative ([ASDI](https://exchange.aboutamazon.com/data-initiative)).
+        Click on the menu above to explore the data.
 
-        - Web App: <https://giswqs-solara-template.hf.space>
-        - GitHub: <https://github.com/opengeos/solara-template>
-        - Hugging Face: <https://huggingface.co/spaces/giswqs/solara-template>
-
+        ![image](https://github.com/user-attachments/assets/8f7a18cd-bfe8-444a-add4-2d21a1830053)
         """
 
         solara.Markdown(markdown)
