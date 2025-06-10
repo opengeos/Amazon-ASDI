@@ -5,3 +5,4 @@ maplibre
 solara
 rasterio
 localtileserver
+rioxarray
