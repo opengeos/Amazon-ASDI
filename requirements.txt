@@ -3,3 +3,5 @@ leafmap>=0.48.3
 mapclassify
 maplibre
 solara
+rasterio
+localtileserver
