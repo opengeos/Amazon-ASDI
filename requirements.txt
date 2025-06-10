@@ -1,8 +1,8 @@
 geopandas
 leafmap>=0.48.3
+localtileserver
 mapclassify
 maplibre
-solara
 rasterio
-localtileserver
 rioxarray
+solara
